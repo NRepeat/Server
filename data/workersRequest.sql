@@ -118,7 +118,7 @@ WHERE id = 7;
 
 DELETE FROM employees
 WHERE "name" = 'Микола';
-
-
+ 
+ 
 DELETE FROM employees
 WHERE vacation_number > 20;
