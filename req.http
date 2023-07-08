@@ -1,0 +1,9 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "login": "httpUser",
+  "password":"qwd11321",
+  "email": "asdsad@sdasd.tesdas",
+  "isMale": false
+}
